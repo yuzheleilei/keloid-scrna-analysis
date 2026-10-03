@@ -8,5 +8,5 @@ Single-cell RNA-seq analysis of keloid scars comparing **pruritic (AK, itchy)** 
 | DoubletFinder | v2.0.3 | 双细胞剔除 |
 | Harmony |v1.0| 批次整合（前 30 PCs，batch=数据集来源） |
 | monocle3 | v1.0.0 | 拟时序 |
-| CytoTRACE2 | 未给版本号 | 发育潜能打分 |
+| CytoTRACE2 | v1.1.0 | 发育潜能打分 |
 | CellChat | v1.6.0 | 细胞通讯 |
